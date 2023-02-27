@@ -1,0 +1,48 @@
+extension for visual studio code
+ext install alexcvzz.vscode-sqlite
+
+Emp_ID,Name_Prefix,First_Name,Middle_Initial,Last_Name,Gender,Email,Father_Name,Mother_Name,Mother_Maiden_Name,Date_of_Birth,Time_of_Birth,Age_in_Yrs,Weight_in_Kgs,Date_of_Joining,Quarter_of_Joining,Half_of_Joining,Year_of_Joining,Month_of_Joining,Month_Name_of_Joining,Short_Month,Day_of_Joining,DOW_of_Joining,Short_DOW,Age_in_Company_Years,Salary,Last_Hike,SSN,Phone_No,Place_Name,County,City,State,Zip,Region,User_Name,Password
+
+
+677509,Drs.,Lois,H,Walker,F,lois.walker@hotmail.com,Donald Walker,Helen Walker,Lewis,3/29/1981,02:31:49 AM,36.36,60,11/24/2003,Q4,H2,2003,11,November,Nov,24,Monday,Mon,13.68,168251,21%,467-99-4677,303-572-8492,Denver,Denver,Denver,CO,80224,West,lhwalker,DCa}.T}X:v?NP
+
+
+"""CREATE TABLE streamers (
+            Emp_ID integer,
+            Name_Prefix text,
+            First_Name text,
+            Middle_Initial text,
+            Last_Name text,
+            Gender text,
+            Email text,
+            Father_Name text,
+            Mother_Name text,
+            Mother_Maiden_Name text,
+            Date_of_Birth text,
+            Time_of_Birth text,
+            Age_in_Yrs text,
+            Weight_in_Kgs integer,
+            Date_of_Joining text,
+            Quarter_of_Joining text,
+            Half_of_Joining text,
+            Year_of_Joining integer,
+            Month_of_Joining integer,
+            Month_Name_of_Joining text,
+            Short_Month text,
+            Day_of_Joining integer,
+            DOW_of_Joining text,
+            Short_DOW text,
+            Age_in_Company_Years text,
+            Salary integer,
+            Last_Hike text,
+            SSN text,
+            Phone_No text,
+            Place_Name text,
+            County text,
+            City text,
+            State text,
+            Zip integer,
+            Region text,
+            User_Name text,
+            Password text
+        )"""

@@ -25,12 +25,6 @@ def insertData():
     conn.close()
 
 
-def showData():
-    print(df)
-
-
-
 #createDB()
 #cleanColumns()
 #insertData()
-showData()
